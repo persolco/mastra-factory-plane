@@ -7,10 +7,10 @@
   "author": "Siamak Salman <siamak.salman71@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/siamaksalman/mastra-factory-plane.git"
+    "url": "git+https://github.com/persolco/mastra-factory-plane.git"
   },
-  "homepage": "https://github.com/siamaksalman/mastra-factory-plane#readme",
-  "bugs": "https://github.com/siamaksalman/mastra-factory-plane/issues",
+  "homepage": "https://github.com/persolco/mastra-factory-plane#readme",
+  "bugs": "https://github.com/persolco/mastra-factory-plane/issues",
   "keywords": ["mastra", "mastra-factory", "plane", "mcp", "integration"],
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
