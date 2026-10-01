@@ -4,7 +4,7 @@
   "description": "Plane integration for Mastra Factory: gives Factory agents Plane tools through the official plane-mcp-server.",
   "type": "module",
   "license": "MIT",
-  "author": "siamaksalman",
+  "author": "Siamak Salman <siamak.salman71@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/siamaksalman/mastra-factory-plane.git"
