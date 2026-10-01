@@ -6,6 +6,10 @@
 
 > Unofficial. Not affiliated with Mastra or Plane.
 
+## Scope
+
+This package gives agents **tools** for reading and changing Plane. It does not (yet) make Plane a work source: Plane issues are not turned into Factory work items, and Factory status is not synced back to Plane. That fuller integration was requested in [mastra-ai/mastra#25703](https://github.com/mastra-ai/mastra/issues/25703), where the Mastra team suggested it live in a community repo. Intake and sync are the planned next steps; contributions are welcome.
+
 ## Requirements
 
 - `@mastra/factory` >= 0.17.0 and `@mastra/mcp` >= 2.1.0 (peer dependencies)
